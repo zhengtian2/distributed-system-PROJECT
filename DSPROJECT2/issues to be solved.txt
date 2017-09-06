@@ -1,0 +1,6 @@
+server是一直启动 等待master连接吗？
+
+worker 的端口号必须是固定的
+
+mster 回传的文件路径未从GUI获取
+
