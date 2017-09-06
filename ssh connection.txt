@@ -1,0 +1,9 @@
+ssh -i /users/zheng/desktop/display/nian/ds.pem ubuntu@144.6.227.163 
+
+ssh -i /users/zheng/desktop/ds.pem ubuntu@115.146.86.185
+
+ssh -i /users/zheng/desktop/display/tq/ds.pem ubuntu@146.118.96.146
+
+ssh -i /users/zheng/desktop/display/tq/ds.pem ubuntu@115.146.87.214
+
+add one:115.146.87.214 5000
